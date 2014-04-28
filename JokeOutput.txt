@@ -1,0 +1,54 @@
+Client Adam received: B) Adam, what kind of guns to bees use? BeeBee guns.
+Client Adam received: A) Why do milking stools only have three legs? Because Adam's cow's got the udder!
+Client Adam received: D) Adam, A baby seal walks into a club...
+Client Adam received: C) Why does Adam's Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Client Adam received: E) What do Adam's cats eat for breakfast? Mice Krispies!
+Client Susan received: A) Why do milking stools only have three legs? Because Susan's cow's got the udder!
+Client Susan received: D) Susan, A baby seal walks into a club...
+Client Susan received: C) Why does Susan's Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Client Susan received: B) Susan, what kind of guns to bees use? BeeBee guns.
+Client Susan received: E) What do Susan's cats eat for breakfast? Mice Krispies!
+AdminClient sent proverb-mode command
+Client Adam received: A) A bird in Adam's hand is worth two in the bush!
+Client Adam received: C) Adam, Carpe Diem.
+Client Susan received: B) Birds of a Susans's feather flock together.
+Client Susan received: A) A bird in Susan's hand is worth two in the bush!
+Client Adam received: B) Birds of a Adams's feather flock together.
+Client Adam received: E) Good things come to Adam when Adam waits.
+Client Susan received: E) Good things come to Susan when Susan waits.
+Client Susan received: D) Failing to plan for Susan is planning to fail.
+Client Adam received: D) Failing to plan for Adam is planning to fail.
+Client Susan received: C) Susan, Carpe Diem.
+AdminClient sent joke-mode command
+Client Adam received: C) Why does Adam's Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Client Susan received: D) Susan, A baby seal walks into a club...
+Client Adam received: B) Adam, what kind of guns to bees use? BeeBee guns.
+Client Susan received: E) What do Susan's cats eat for breakfast? Mice Krispies!
+Client Adam received: A) Why do milking stools only have three legs? Because Adam's cow's got the udder!
+Client Susan received: A) Why do milking stools only have three legs? Because Susan's cow's got the udder!
+Client Adam received: E) What do Adam's cats eat for breakfast? Mice Krispies!
+Client Susan received: C) Why does Susan's Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Client Adam received: D) Adam, A baby seal walks into a club...
+Client Susan received: B) Susan, what kind of guns to bees use? BeeBee guns.
+AdminClient sent maintenance-mode command
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+Client null received: The server is temporarily unavailable -- check-back shortly.
+AdminClient sent default-mode command
+Client Adam received: D) Adam, A baby seal walks into a club...
+Client Adam received: C) Why does Adam's Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Client Susan received: C) Why does Susan's Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Client Susan received: D) Susan, A baby seal walks into a club...
+Client Adam received: A) Why do milking stools only have three legs? Because Adam's cow's got the udder!
+Client Adam received: E) What do Adam's cats eat for breakfast? Mice Krispies!
+Client Susan received: B) Susan, what kind of guns to bees use? BeeBee guns.
+Client Susan received: A) Why do milking stools only have three legs? Because Susan's cow's got the udder!
+Client Adam received: B) Adam, what kind of guns to bees use? BeeBee guns.
+Client Susan received: E) What do Susan's cats eat for breakfast? Mice Krispies!
